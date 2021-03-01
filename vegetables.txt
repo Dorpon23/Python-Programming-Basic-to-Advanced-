@@ -1,8 +1,5 @@
-Tomato
-Cucumber
 Onion
 Garlic
-Okra
-Orange
-Orange
-Orange
+Tomatos
+Cucumber
+Potatos
